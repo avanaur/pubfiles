@@ -1,0 +1,4 @@
+||ecsv2.roblox.com^
+||client-telemetry.roblox.com^
+||tracing.roblox.com^
+||metrics.roblox.com^
